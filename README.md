@@ -86,16 +86,20 @@ The command `./script.sh` ![executerunscript](./img/15.executerunscript.png)
 
 **Git init** command creates a new git repository, it converts an existing unversioned project into a git repository as it is usually the first command you will run in a new project asides the creating of directories.
 
-To use git init , type the syntax
+To use git init , type the syntax `git init` ![gitinit](./img/20.gitinit.png)
 
 **Git add** The git add (staging) command adds a change to the working directory in the staging area
 
-To use git add , type the syntax
+To use git add , type the syntax `git add` ![gitadd](./img/21.gitadd.png)
+
+**To connect the  local repository to remote repository**
+
+Type the syntax `git remote add origin` ![remoteorigin](./img/23.remoteorigin.png)
 
 **Git commit** command saves the state (changes) of the project including all the tracked files while assigning a unique identifier.
 
-To use git commit , type the syntax
+To use git commit , type the syntax `git commit` ![gitcommit](./img/22.gitcommit.png)
 
 **Git push** command pushes the local content (repository) to a remote repository
 
-To use git push , type the syntax
+To use git push , type the syntax `git push` ![gitpushmain](./img/24.gitpushmain.png)
